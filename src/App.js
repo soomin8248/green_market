@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          그린 마켓 완성
         </a>
       </header>
     </div>
